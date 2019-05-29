@@ -8,3 +8,8 @@ Reason Why I've Made this. Many Times I work offline, and on Slow Internet, Sear
 I Hope They Will understand and Add Somthing like this in their official website :). Using this, Development Seems to be Quicker and Easier  `:)`
 
 
+
+---
+permalink: /index.html
+---
+
