@@ -114,7 +114,7 @@
 <script>
   function search() {
     searchedIcons = []
-    searchString = document.getElementById("search").value;
+    searchString = document.getElementById("search").value.toLowerCase();
     icons.forEach(function (icon) {
       if (icon.name.search(searchString) != -1) {
         searchedIcons.push(icon)
