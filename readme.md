@@ -9,8 +9,4 @@ I Hope They Will understand and Add Somthing like this in their official website
 
 ### More Versions incoming.
 
-
----
-permalink: /index.html
----
-
+Live URL: https://imlolman.github.io/Font-Awesome-Offline-Quick-Icon-Search/
